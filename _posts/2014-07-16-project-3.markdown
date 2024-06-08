@@ -1,15 +1,15 @@
 ---
-title: Golden
-subtitle: Website Design
+title: YOUTH & KIDS
+subtitle: in-progress...
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: ynk.jpg
+thumbnail: ynk-thumbnail.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: An online community for youth to come together and share from the heart, build genuine connections, develop habits to lead a purposeful life, and most importantly have fun.
 
 ---
