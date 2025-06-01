@@ -22,7 +22,7 @@
      ```
      This will install the correct Jekyll and plugin versions as specified in your `Gemfile`.
 
-3. **Make Your Code Changes**
+3. <span id="make-your-code-changes">**Make Your Code Changes**</span>
    - Edit files as needed (`_posts/`, `_layouts/`, `_includes/`, assets, etc).
 
 4. **Serve the Site Locally**
