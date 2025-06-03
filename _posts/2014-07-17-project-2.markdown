@@ -11,7 +11,7 @@ alt: image-alt
 # project-date: April 2014
 # client: Start Bootstrap
 # category: Web Development
-description: Spiritual discourses followed by an ecstatic kirtan and vegetarian feast, as well as online classes on spiritual topics based on the ancient spiritual text, Bhagavad Gita As It Is.
+description: Every Saturday - Spiritual discourses followed by an ecstatic kirtan and vegetarian feast, as well as online classes on spiritual topics based on the ancient spiritual text, Bhagavad Gita As It Is. Meet at <B>2482 Nissen Dr, Livermore</B>
 description1:  Tuesday triveni sangam classes
 
 ---
