@@ -1,15 +1,14 @@
 ---
-title: Meditation
+title: Mantra meditation
 subtitle: in-progress...
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: meditation.jpg
+img: Mantramed.jpeg
 thumbnail: meditation-thumbnail.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Peaceful guided mantra meditations in the early morning hours and ecstatic group kirtan into the evening. We welcome you to bring your friends and family!
-
+description: Mantra is an active form of meditation and it’s coming from the ancient Vedic tradition. It engages the whole body in a calming and healing vibration through repetition of sound that aligns the energetic centers of the physical, mental and astral or subtle bodies and brings the mind to the present moment.Following a mantra like Hare Krsna Hare Ram, Om, etc chanting, it is easy for the mind to move into meditation. In essence parents and kids love it!
 ---

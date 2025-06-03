@@ -1,15 +1,18 @@
 ---
-title: YOUTH & KIDS
-subtitle: in-progress...
+title: Yogapeeth Kids
+subtitle: Build strong and resilient minds
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: ynk.jpg
+img: Yoga4Kids.jpeg
 thumbnail: ynk-thumbnail.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: An online community for youth to come together and share from the heart, build genuine connections, develop habits to lead a purposeful life, and most importantly have fun.
+description: YogaPeeth Activities for development of spiritually strong Kids</h3>
+              <p>Yogapeeth is one of the multi-disciplinary and more vigorous types of yoga that strengthens and empowers the body, mind, and spirit. 
+   Kids are energetic and sportive in every endeavor. The practice of yoga nidra aims to teach students to communicate with their bodies 
+   and access their spiritual inner values so they can achieve the best results in their academic career.
 
 ---

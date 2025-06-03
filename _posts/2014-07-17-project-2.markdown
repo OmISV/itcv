@@ -4,12 +4,14 @@ subtitle: in-progress...
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: classes.jpg
+img: classes1.jpeg
+img1: TueClasses.jpeg
 thumbnail: classes-thumbnail.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+# project-date: April 2014
+# client: Start Bootstrap
+# category: Web Development
 description: Spiritual discourses followed by an ecstatic kirtan and vegetarian feast, as well as online classes on spiritual topics based on the ancient spiritual text, Bhagavad Gita As It Is.
+description1:  Tuesday triveni sangam classes
 
 ---
